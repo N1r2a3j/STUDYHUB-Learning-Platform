@@ -5,7 +5,8 @@
 /.pnp
 .pnp.js
 #secret
-.env
+server/.env
+
 
 # testing
 /coverage
