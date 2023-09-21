@@ -22,7 +22,6 @@ database.connect();
 //middlewares
 app.use(express.json());
 app.use(cookieParser());
-
 //IMP
 app.use(
 	cors({
