@@ -25,7 +25,7 @@ app.use(cookieParser());
 //IMP
 app.use(
 	cors({
-		origin:"https://studyhub-online-learning-platform.vercel.app/",
+		origin:"https://studyhub-online-learning-platform.vercel.app",
 		credentials:true,
 	})
 )
